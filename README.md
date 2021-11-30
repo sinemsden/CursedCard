@@ -1,0 +1,2 @@
+# CursedCard
+ Snitch Game
